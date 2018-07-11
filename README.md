@@ -1,0 +1,2 @@
+# mattermost_client
+MattermostのRESTful APIを使ったクライアント
